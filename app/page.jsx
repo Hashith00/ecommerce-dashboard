@@ -98,7 +98,7 @@ export default function Home() {
           </form>
 
           <p className="mt-6 text-center text-sm text-gray-500 dark:text-gray-400">
-            Don't have an account?{" "}
+            Don&apos;t have an account?
             <Button
               variant="link"
               className="text-indigo-600 dark:text-indigo-400 p-0 h-auto font-normal"
